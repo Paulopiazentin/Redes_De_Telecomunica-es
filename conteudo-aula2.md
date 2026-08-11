@@ -49,3 +49,4 @@ rede interna.
 todo servidor tem IP FIXO
 
 
+tracent -4 (nome do site)  achar ip
