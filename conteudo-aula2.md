@@ -21,3 +21,31 @@ maquina um realiza um teste de ping para verificar a maquina dois.
 Como usar um Switch.
 
 para usar varios dispositivos.
+
+DHCP = distribuidor de IP.
+
+definir um range de IP 192.168.0.0(vai ATE 255 EX 192.168.0.255 chegou ao fim fica 192.168.1.0)
+
+1 octeto . 2 octeto . 3 octeto . 4 octeto
+
+1 byte = 8 bits  = octeto
+
+IPV4 ^
+
+DHCP = distribuidor de IP.
+
+Mascara? o que é!
+
+255.255.255.0 - os 3 primeiros octetos vai seguir REDE  - o ultimo é Host!
+
+0 e 255 primeiro e ultimo não pode usar. quantidade de host menos 2.
+
+0 = host 
+
+255 = rede
+
+rede interna. 
+
+todo servidor tem IP FIXO
+
+
