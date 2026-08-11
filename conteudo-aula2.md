@@ -17,3 +17,7 @@ as maquinas precisam ter IP para se Comunicar.
 ping - o que é
 
 maquina um realiza um teste de ping para verificar a maquina dois. 
+
+Como usar um Switch.
+
+para usar varios dispositivos.
