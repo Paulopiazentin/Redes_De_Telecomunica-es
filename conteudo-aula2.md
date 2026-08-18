@@ -50,3 +50,10 @@ todo servidor tem IP FIXO
 
 
 tracent -4 (nome do site)  achar ip
+
+17/08/2026
+ 
+DNS = Domain name system 
+
+computador comversa com o DNS informando o Dominio EX: www.meusite.com  e o DNS devolve o IP.
+
